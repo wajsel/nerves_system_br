@@ -1,4 +1,4 @@
-From 4f90123e98886de898ea01b99158d6ce6985946a Mon Sep 17 00:00:00 2001
+From f8e798c5fdf406748f7c1cde3d4241e9c3e51cec Mon Sep 17 00:00:00 2001
 From: Frank Hunleth <fhunleth@troodon-software.com>
 Date: Sun, 25 Jun 2017 22:32:02 -0400
 Subject: [PATCH] fwup: bump to v1.2.5
